@@ -21,7 +21,7 @@ Fetching: addressable-2.3.5.gem (100%)\
 \n\
 \nWe love you!\
 \n\
-\n[[b;#b58900;]Prerita and Jai]\
+\n[[b;#b58900;]Chris and Katie]\
 \n\
 \n[[b;#d33682;]=======================================]\
 \n\
@@ -35,13 +35,13 @@ Fetching: addressable-2.3.5.gem (100%)\
 \n7 gems installed\
 \n    ";
     var prompt = "[[b;#d33682;]root]@[[b;#6c71c4;]wedding] ~$ ";
-    var days_left = Math.round((new Date('2013 11 29') - new Date())/(1000*60*60*24));
+    var days_left = Math.round((new Date('2015 11 29') - new Date())/(1000*60*60*24));
     var wedding_url = "http://goo.gl/4tqfMs";
-    var rsvp_url = "https://twitter.com/jaipandya";
+    var rsvp_url = "https://twitter.com/mektball";
     var venue_address = "\
-Gandhi Nagar Club Gardens\
-\n(Near Gandhi Nagar Girls' School),\
-\nGandhi Nagar, Jaipur\
+St Patricks Catherdral\
+\n(Near the corner Girls' School),\
+\nPascoe Vale, Melbourne\
 \nPin - 302015\
     "
     var ganesha = "\
